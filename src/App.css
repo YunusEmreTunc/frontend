@@ -1,0 +1,61 @@
+/* src/App.css */
+body {
+  font-family: 'Arial', sans-serif;
+  background-color: #f4f4f4;
+  margin: 0;
+  padding: 0;
+}
+
+.App {
+  text-align: center;
+  padding: 20px;
+}
+
+h1 {
+  color: #333;
+}
+
+/* SearchBox.css */
+.SearchBox {
+  margin-bottom: 20px;
+}
+
+input {
+  padding: 10px;
+  margin: 5px;
+}
+
+label {
+  margin-left: 10px;
+}
+
+button {
+  padding: 10px;
+  margin: 5px;
+  cursor: pointer;
+  background-color: #4caf50;
+  color: white;
+  border: none;
+}
+
+/* FlightList.css */
+.FlightList {
+  margin-top: 20px;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+li {
+  border: 1px solid #ddd;
+  background-color: #fff;
+  margin: 10px 0;
+  padding: 10px;
+}
+
+button {
+  background-color: #333;
+  color: #fff;
+}
